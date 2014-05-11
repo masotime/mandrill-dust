@@ -1,0 +1,24 @@
+{
+  "name": "mandrill-dust",
+  "version": "0.0.1",
+  "description": "Module with very specific functionality. E-mails dust templates via Mandrill.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mandrill",
+    "dust"
+  ],
+  "author": "Benjamin Goh <masotime@gmail.com>",
+  "license": "BSD",
+  "dependencies": {
+    "dustr": "0.0.2",
+    "mandrill-api": "^1.0.39",
+    "q": "^1.0.1"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "chai-as-promised": "^4.1.1"
+  }
+}
