@@ -10,6 +10,10 @@
     "mandrill",
     "dust"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:masotime/mandrill-dust.git"
+  },
   "author": "Benjamin Goh <masotime@gmail.com>",
   "license": "BSD",
   "dependencies": {
