@@ -1,6 +1,6 @@
 {
   "name": "mandrill-dust",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Module with very specific functionality. E-mails dust templates via Mandrill.",
   "main": "index.js",
   "scripts": {
